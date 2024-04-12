@@ -1,5 +1,5 @@
 # sourabhicoding
-<h2 align="left">Hi 👋! My name is Sourabh patel and I'm a web developer, from india</h2>
+<h2 align="left">Hi 👋! My name is Sourabh patel and I'm a web developer,from india</h2>
 
 ###
 
